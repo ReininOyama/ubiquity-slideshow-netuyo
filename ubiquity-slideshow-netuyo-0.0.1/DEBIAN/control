@@ -1,0 +1,11 @@
+Package: ubiquity-slideshow-netuyo
+Priority: optional
+Section: main
+Maintainer: Reinin Oyama
+Architecture: all
+Version: 0.0.1
+Depends: ubiquity
+Conflicts:
+Provides:
+Description: Netuyo slide show for Ubiquity installer
+ A simple slide show for ubiquity
