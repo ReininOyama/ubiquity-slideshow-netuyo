@@ -3,7 +3,7 @@ Priority: optional
 Section: main
 Maintainer: Reinin Oyama
 Architecture: all
-Version: 0.0.1
+Version: 0.0.2
 Depends: ubiquity
 Conflicts:
 Provides:
